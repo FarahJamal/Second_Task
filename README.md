@@ -1,5 +1,7 @@
 # Mindset Growth.:smile:
 
+:)
+
 #### My name is <span style="color:blue">Farah Jamal</span> I will show to you som things about Mindset Grouth.
 
 # Growth Mindest Def:
