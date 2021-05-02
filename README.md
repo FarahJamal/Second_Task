@@ -7,6 +7,7 @@
 1-What is growth mindset ❓
 
     “A growth mindset is when students understand that their abilities can be developed,” (Dweck, 2014).
+    
 2-What does it mean to have a growth mindset ❓
 
       When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort.  In contrast, someone who has a fixed mindset believes that they are born with a certain amount of talent and intelligence and that cannot be improved no matter how much effort they put forth.
