@@ -24,6 +24,7 @@
 | Stop seeking approval |When you prioritise approval over learning, you sacrifice your own potential for growth. |
 | Celebrate growth with others.    |If you truly appreciate growth, you’ll want to share your progress with others. |
 | Use the word “yet.”.    |Dweck says “not yet” has become one of her favourite phrases. Whenever you see students struggling with a task, just tell them they haven’t mastered it yet.|
+
 ![](https://github.com/FarahJamal/Second_Task/blob/main/brainstorm.png)
 you can check your mindset health using this link:
 [mindset health](https://www.mindsethealth.com/self-tests/mindset-quiz).
