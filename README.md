@@ -15,6 +15,14 @@
 
     Having a growth mindset is something that employers are always looking for.  If you believe that you can learn and become more skilled and intelligent you will be a harder worker and you will excel in whatever you do.  As a student, you will be open to learning new things and new information will come easily to you. 
     
+# the Differnce Between fixed Mindset vs Growth Mindset.
+
+  * A growth mindset means that you believe your intelligence and talents can be developed over time. 
+  
+  * A fixed mindset means that you believe intelligence is fixed—so if you’re not good at something, you might believe you’ll never be good at it.
+
+![](https://www.ntaskmanager.com/wp-content/uploads/2019/05/fixed-vs-growth-mindset-blog-header-2.png)
+
 # How to keep in a growth mindset :question:
 
 
@@ -27,7 +35,7 @@
 
 ![](https://github.com/FarahJamal/Second_Task/blob/main/brainstorm.png).
 
-## you can check your mindset health using this link:
+## you can check your mindset using this link:
 
    * [mindset health](https://www.mindsethealth.com/self-tests/mindset-quiz).
 
