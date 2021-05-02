@@ -27,11 +27,11 @@
 
 ![](https://github.com/FarahJamal/Second_Task/blob/main/brainstorm.png).
 
-you can check your mindset health using this link:
+##you can check your mindset health using this link:
 
 [mindset health](https://www.mindsethealth.com/self-tests/mindset-quiz).
 
-Some Refrences:
+##Some Refrences:
 
 [developed your mindset training](https://www.opencolleges.edu.au/informed/features/develop-a-growth-mindset/).
 
